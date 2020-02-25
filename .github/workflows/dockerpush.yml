@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: etherpad
+  IMAGE_NAME: etherpad-lite
 
 jobs:
   # Run tests.
